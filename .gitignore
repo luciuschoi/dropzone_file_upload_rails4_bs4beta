@@ -13,3 +13,4 @@
 /tmp
 
 public/system/images/**/*
+public/uploads/**/*
