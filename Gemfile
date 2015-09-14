@@ -1,6 +1,8 @@
 source 'https://rubygems.org'
 
-gem "paperclip", "~> 4.2"
+gem "carrierwave"
+gem "mini_magick"
+# gem "paperclip", "~> 4.2"
 gem 'dropzonejs-rails'
 gem 'bootstrap', git: 'https://github.com/twbs/bootstrap-rubygem'
 gem 'bh', '~> 1.2'
